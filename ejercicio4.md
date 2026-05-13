@@ -130,6 +130,8 @@ root@ed3da28a9a6d:/workspace# ls -l docs/README.md scripts/deploy.sh
 ### 5.1 Muestra:
 
 - estructura completa
+
+  ***command tree NO FUNCIONAAAAAAAAAAAA***
   
 ```text
 workspace/
